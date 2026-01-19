@@ -1,4 +1,4 @@
-o agnete foi criado no copilot com intuito de criar uma descrição de uma baga de emprego na área de tecnologia
+o agente foi criado no copilot com intuito de criar uma descrição de uma baga de emprego na área de tecnologia
 com base mas informações dadas pelo o usuário.
 
 Esse projeto foi proposto pelo bootcamp da caixa da Digital Inovation one, ministrado pelo professor henrique silva
